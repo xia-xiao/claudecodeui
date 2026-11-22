@@ -1,0 +1,47 @@
+{
+  "sourceCommit": "ed27637ad99cfcbf5a7c94a57c9bcc75b4fc389a",
+  "date": "2026-11-22",
+  "browser": "Microsoft Edge",
+  "environment": "Local production build; synthetic signed-out auth; no live provider calls",
+  "before": {
+    "fontRequestPaused": true,
+    "bodyText": "",
+    "firstPartyResponses": [
+      {
+        "path": "/assets/index-B2Od9VUv.css",
+        "status": 200
+      },
+      {
+        "path": "/assets/vendor-react-BGZc9oRE.js",
+        "status": 200
+      },
+      {
+        "path": "/assets/vendor-xterm-CS4rQ5Mr.js",
+        "status": 200
+      },
+      {
+        "path": "/assets/vendor-codemirror-CYrSt7-U.js",
+        "status": 200
+      },
+      {
+        "path": "/assets/index-CZeS7Rnm.js",
+        "status": 200
+      }
+    ]
+  },
+  "after": {
+    "fontRequestPaused": true,
+    "stylesheetMedia": "print",
+    "signInFormVisible": true,
+    "httpCacheDisabled": true,
+    "serviceWorkerBypassed": true,
+    "screenshot": "font-after.png"
+  },
+  "stylesheetCompleted": {
+    "media": "all"
+  },
+  "limitations": [
+    "Baseline verified using network, DOM and accessibility state; capturing its blank pre-paint page timed out.",
+    "Stylesheet completion uses a controlled empty CSS response to exercise the media transition, not a live font download."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "syntheticProvider": true,
+  "providerRequests": 1,
+  "generatorStopped": true,
+  "jobId": "f877928c1d250b5ee31a5523b5e372d173e16c80665f645d0edf597176e3d841",
+  "asset": {
+    "id": "5ef494b0-e1d2-42eb-9de1-57e7d1c79f85",
+    "path": "generated-images/5ef494b0-e1d2-42eb-9de1-57e7d1c79f85.png",
+    "mimeType": "image/png",
+    "bytes": 7763,
+    "sha256": "48c2dd175908f459d8b80b1232daa2abb699975e96b3230b57dd90a2d30d05b8"
+  },
+  "imageSha256": "48c2dd175908f459d8b80b1232daa2abb699975e96b3230b57dd90a2d30d05b8",
+  "anonymousJobReadStatus": 401,
+  "unknownProjectReadStatus": 404,
+  "rendering": "Production ToolRenderer and job router; synthetic account/file-serving fixture",
+  "browser": {
+    "engine": "Microsoft Edge",
+    "reloadPassed": true,
+    "providerRequestsAfterReload": 1,
+    "generatorProcessStopped": true,
+    "imageDecodedWidth": 400,
+    "imageDecodedHeight": 240,
+    "serviceWorkerBypassed": true,
+    "httpCacheDisabled": true
+  },
+  "limitations": [
+    "Synthetic provider and account/file-serving fixture; no real OpenAI/Azure generation or signed-in user portal tested."
+  ],
+  "fileRead": {
+    "anonymousStatus": 401,
+    "authorizedStatus": 200,
+    "bytes": 7763,
+    "sha256": "48c2dd175908f459d8b80b1232daa2abb699975e96b3230b57dd90a2d30d05b8"
+  },
+  "screenshot": "image-mcp-reloaded.png",
+  "screenshotCroppedToComponent": true,
+  "implementationCommit": "0b456dcf9e9d92963f8709150776a17cd8bdb977",
+  "automatedValidation": {
+    "backendAndAuthTestsPassed": 43,
+    "frontendTestsPassed": 1204,
+    "frontendTestFiles": 163,
+    "build": "passed",
+    "typecheck": "passed",
+    "lint": "passed with existing repository warnings",
+    "packageDryRun": "passed"
+  }
+}
